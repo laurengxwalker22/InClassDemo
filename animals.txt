@@ -2,3 +2,4 @@ lion contributorA
 tiger
 leopard
 trutle
+"lion contributorB \n tiger \n leapord \turtle" 
